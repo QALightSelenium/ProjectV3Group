@@ -1,0 +1,332 @@
+2018-18-02 12:40:37   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:42:34   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:42:34   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:43:02   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:43:02   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:45:01   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:45:01   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:47:23   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:47:23   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:49:04   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:49:05   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:51:22   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:51:23   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:52:46   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:52:46   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:54:38   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:54:38   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 12:57:23   INFO [pages.LoginPage] : Page is opened
+2018-18-02 12:57:23   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 13:00:15   INFO [pages.LoginPage] : Page is opened
+2018-18-02 13:00:16   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 13:01:37   INFO [pages.LoginPage] : Page is opened
+2018-18-02 13:01:37   INFO [pages.LoginPage] : Login is inputed
+2018-18-02 13:03:05   INFO [pages.LoginPage] : Page is opened
+2018-18-02 13:03:05   INFO [pages.LoginPage] : Login is inputed
+2018-23-02 19:45:51   INFO [pages.LoginPage] : Page is opened
+2018-23-02 19:45:51   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 19:51:31   INFO [pages.LoginPage] : Page is opened
+2018-23-02 19:51:31   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 20:34:49   INFO [pages.LoginPage] : Page is opened
+2018-23-02 20:34:49   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 20:38:57   INFO [pages.LoginPage] : Page is opened
+2018-23-02 20:38:57   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 20:40:09   INFO [pages.LoginPage] : Page is opened
+2018-23-02 20:40:09   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 20:42:01   INFO [pages.LoginPage] : Page is opened
+2018-23-02 20:42:01   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 20:47:16   INFO [pages.LoginPage] : Page is opened
+2018-23-02 20:47:16   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 21:00:53   INFO [pages.LoginPage] : Page is opened
+2018-23-02 21:00:53   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 21:01:25   INFO [pages.LoginPage] : Page login was opened
+2018-23-02 21:01:26   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-23-02 21:04:18   INFO [pages.LoginPage] : Page login was opened
+2018-23-02 21:04:18   INFO [libs.ActionsWithWebElements] : Student  is inputed to By.name: _username
+2018-24-02 13:11:47   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 13:11:47   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (6fc780f55c4f333a0bdc306b0e39088b)] -> name: _username]
+2018-24-02 13:11:47   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (6fc780f55c4f333a0bdc306b0e39088b)] -> id: password]
+2018-24-02 22:12:53   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:14:04   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:14:32   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:14:35   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:14:36   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:14:36   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d97d664c650b84059917353df8c0c17c)] -> name: _username]
+2018-24-02 22:14:36   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d97d664c650b84059917353df8c0c17c)] -> id: password]
+2018-24-02 22:14:52   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:14:55   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:14:56   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:14:56   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (8dfe95e2dad10448ca9d6a9977f55453)] -> name: _username]
+2018-24-02 22:14:56   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (8dfe95e2dad10448ca9d6a9977f55453)] -> id: password]
+2018-24-02 22:30:39   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:30:42   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:30:43   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:30:43   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e641b024c45b59fe8e4e1c225e8ede5c)] -> name: _username]
+2018-24-02 22:30:43   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (e641b024c45b59fe8e4e1c225e8ede5c)] -> id: password]
+2018-24-02 22:30:44   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-24-02 22:35:26   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 22:35:30   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 22:35:31   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:35:31   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (86f8500a9ffb8cc198e238fb1964eb15)] -> name: _username]
+2018-24-02 22:35:31   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (86f8500a9ffb8cc198e238fb1964eb15)] -> id: password]
+2018-24-02 22:35:33   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 22:35:34   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 22:35:35   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:35:35   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (c3111d38144757e2b47d5badef535e85)] -> name: _username]
+2018-24-02 22:35:35   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (c3111d38144757e2b47d5badef535e85)] -> id: password]
+2018-24-02 22:36:29   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:36:32   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:36:33   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:36:33   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e210b8a0f7732be29851cc7775bdfb5c)] -> name: _username]
+2018-24-02 22:36:33   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (e210b8a0f7732be29851cc7775bdfb5c)] -> id: password]
+2018-24-02 22:36:35   INFO [loginTests.ValidLogin] : IE will be started
+2018-24-02 22:36:37   INFO [loginTests.ValidLogin] :  IE is started
+2018-24-02 22:36:43   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:36:53  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with css selector == *[name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:15803/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 03fc11b7-dae7-45ec-8d0d-2794a79b381a
+*** Element info: {Using=name, value=_username}
+2018-24-02 22:37:03  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with css selector == #password
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:15803/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 03fc11b7-dae7-45ec-8d0d-2794a79b381a
+*** Element info: {Using=id, value=password}
+2018-24-02 22:37:08   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:37:11   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:37:13   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:37:13   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (66a9f67a084f2dc102b909315ae29b34)] -> name: _username]
+2018-24-02 22:37:13   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (66a9f67a084f2dc102b909315ae29b34)] -> id: password]
+2018-24-02 22:37:14   INFO [loginTests.ValidLogin] : IE will be started
+2018-24-02 22:37:16   INFO [loginTests.ValidLogin] :  IE is started
+2018-24-02 22:37:16   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:37:27  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with css selector == *[name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:4746/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9d82646c-6863-4943-b042-9e326b104522
+*** Element info: {Using=name, value=_username}
+2018-24-02 22:37:27  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:4746/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9d82646c-6863-4943-b042-9e326b104522
+*** Element info: {Using=id, value=password}
+2018-24-02 22:40:56   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:40:59   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:41:00   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:41:00   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (5c32df615b85a0f8b97ecc061daa275c)] -> xpath: //input[@name='_username']]
+2018-24-02 22:41:00   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (5c32df615b85a0f8b97ecc061daa275c)] -> id: password]
+2018-24-02 22:41:01   INFO [loginTests.ValidLogin] : IE will be started
+2018-24-02 22:41:03   INFO [loginTests.ValidLogin] :  IE is started
+2018-24-02 22:41:03   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:41:14  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with xpath == //input[@name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:34512/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3dd24631-6591-4103-bd85-3364c6fc9d18
+*** Element info: {Using=xpath, value=//input[@name='_username']}
+2018-24-02 22:41:14  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:34512/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3dd24631-6591-4103-bd85-3364c6fc9d18
+*** Element info: {Using=id, value=password}
+2018-24-02 22:45:56   INFO [loginTests.ValidLogin] : FireFox will be started
+2018-24-02 22:45:58   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:46:00   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:46:01   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:46:01   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (060c1978a9e8e257f4154fa8baede917)] -> xpath: //input[@name='_username']]
+2018-24-02 22:46:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (060c1978a9e8e257f4154fa8baede917)] -> id: password]
+2018-24-02 22:47:13   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-24-02 22:47:15   INFO [loginTests.ValidLogin] : Chrome is started
+2018-24-02 22:47:16   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:47:16   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (17b53eeb9755839f878e2e2276e93b1b)] -> xpath: //input[@name='_username']]
+2018-24-02 22:47:16   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (17b53eeb9755839f878e2e2276e93b1b)] -> id: password]
+2018-24-02 22:47:18   INFO [loginTests.ValidLogin] : IE will be started
+2018-24-02 22:47:20   INFO [loginTests.ValidLogin] :  IE is started
+2018-24-02 22:47:20   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 22:47:30  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with xpath == //input[@name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:5531/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 071c992e-f92c-4155-b94b-5547b53d5460
+*** Element info: {Using=xpath, value=//input[@name='_username']}
+2018-24-02 22:47:30  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:5531/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 071c992e-f92c-4155-b94b-5547b53d5460
+*** Element info: {Using=id, value=password}
+2018-24-02 23:00:09   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:00:12   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:00:13   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:00:13   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (7d16381ffcdc5dd87668bb3a80c6181a)] -> xpath: //input[@name='_username']]
+2018-24-02 23:00:13   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (7d16381ffcdc5dd87668bb3a80c6181a)] -> id: password]
+2018-24-02 23:00:15   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:00:17   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:00:18   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:00:18   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (34f8f20b67e1079819860983bb8a5a28)] -> xpath: //input[@name='_username']]
+2018-24-02 23:00:18   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (34f8f20b67e1079819860983bb8a5a28)] -> id: password]
+2018-24-02 23:02:11   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:02:14   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:02:15   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:02:15   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (648465ca07c1be9061bd6ce333191e45)] -> xpath: //input[@name='_username']]
+2018-24-02 23:02:15   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (648465ca07c1be9061bd6ce333191e45)] -> id: password]
+2018-24-02 23:02:16   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:02:18   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:02:19   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:02:20   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (bdc171b1e1dd5608e26d747a450b675d)] -> xpath: //input[@name='_username']]
+2018-24-02 23:02:20   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (bdc171b1e1dd5608e26d747a450b675d)] -> id: password]
+2018-24-02 23:04:25   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:04:28   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:04:29   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:04:29   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (afd3b0cbcc2c08220e4052d6c124e9d5)] -> xpath: //input[@name='_username']]
+2018-24-02 23:04:29   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (afd3b0cbcc2c08220e4052d6c124e9d5)] -> id: password]
+2018-24-02 23:04:31   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-24-02 23:04:32   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-24-02 23:04:33   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:04:33   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (bd1ad28e6f2b5a912a12e52ae2781777)] -> xpath: //input[@name='_username']]
+2018-24-02 23:04:33   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (bd1ad28e6f2b5a912a12e52ae2781777)] -> id: password]
+2018-24-02 23:04:34   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-24-02 23:04:35   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\InvalidLoginWithParaminvalidLogin[1].jpg
+2018-24-02 23:20:49   INFO [apparatTest.AddNewApparatTest] : Chrome will be started
+2018-24-02 23:20:52   INFO [apparatTest.AddNewApparatTest] : Chrome is started
+2018-24-02 23:20:53   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:20:53   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (0e7f0c424a504dd36e942edb045e302a)] -> xpath: //input[@name='_username']]
+2018-24-02 23:20:53   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (0e7f0c424a504dd36e942edb045e302a)] -> id: password]
+2018-24-02 23:20:55   INFO [libs.ActionsWithWebElements] : 999  is inputed to [[ChromeDriver: chrome on XP (0e7f0c424a504dd36e942edb045e302a)] -> id: apparat_apparatNumber]
+2018-24-02 23:20:55   INFO [libs.ActionsWithWebElements] : ApparatAntonenko  is inputed to [[ChromeDriver: chrome on XP (0e7f0c424a504dd36e942edb045e302a)] -> id: apparat_apparatComment]
+2018-24-02 23:20:56   INFO [apparatTest.AddNewApparatTest] : IE will be started
+2018-24-02 23:20:58   INFO [apparatTest.AddNewApparatTest] :  IE is started
+2018-24-02 23:20:58   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:21:09  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with xpath == //input[@name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:47581/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 971e5eec-baaa-4fba-8015-888ccb1bb769
+*** Element info: {Using=xpath, value=//input[@name='_username']}
+2018-24-02 23:21:09  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:47581/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 971e5eec-baaa-4fba-8015-888ccb1bb769
+*** Element info: {Using=id, value=password}
+2018-24-02 23:21:55   INFO [apparatTest.AddNewApparatTest] : Chrome will be started
+2018-24-02 23:21:58   INFO [apparatTest.AddNewApparatTest] : Chrome is started
+2018-24-02 23:21:59   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:21:59   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (63037446c0f123cb030edd599ae159b5)] -> xpath: //input[@name='_username']]
+2018-24-02 23:21:59   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (63037446c0f123cb030edd599ae159b5)] -> id: password]
+2018-24-02 23:22:01   INFO [libs.ActionsWithWebElements] : 999  is inputed to [[ChromeDriver: chrome on XP (63037446c0f123cb030edd599ae159b5)] -> id: apparat_apparatNumber]
+2018-24-02 23:22:01   INFO [libs.ActionsWithWebElements] : ApparatAntonenko  is inputed to [[ChromeDriver: chrome on XP (63037446c0f123cb030edd599ae159b5)] -> id: apparat_apparatComment]
+2018-24-02 23:22:38   INFO [apparatTest.AddNewApparatTest] : Chrome will be started
+2018-24-02 23:22:41   INFO [apparatTest.AddNewApparatTest] : Chrome is started
+2018-24-02 23:22:42   INFO [pages.LoginPage] : Page login was opened
+2018-24-02 23:22:42   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (85dbafefd20301d18bd4ce77eb3eec36)] -> xpath: //input[@name='_username']]
+2018-24-02 23:22:43   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (85dbafefd20301d18bd4ce77eb3eec36)] -> id: password]
+2018-24-02 23:22:45   INFO [libs.ActionsWithWebElements] : 262626  is inputed to [[ChromeDriver: chrome on XP (85dbafefd20301d18bd4ce77eb3eec36)] -> id: apparat_apparatNumber]
+2018-24-02 23:22:45   INFO [libs.ActionsWithWebElements] : ApparatEliseeva  is inputed to [[ChromeDriver: chrome on XP (85dbafefd20301d18bd4ce77eb3eec36)] -> id: apparat_apparatComment]
+2018-25-02 10:43:47   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-25-02 10:43:51   INFO [loginTests.ValidLogin] : Chrome is started
+2018-25-02 10:43:52   INFO [pages.LoginPage] : Page login was opened
+2018-25-02 10:43:52   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (98e8d5995293a5f4eb49d128c4a77edf)] -> xpath: //input[@name='_username']]
+2018-25-02 10:43:52   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (98e8d5995293a5f4eb49d128c4a77edf)] -> id: password]
+2018-25-02 10:43:53   INFO [libs.Utils] : ScreenShot: ..\ClassWork\target\screenshot\loginTests\ValidLoginvalidLogin[0].jpg
+2018-25-02 11:22:18   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-25-02 11:22:21   INFO [loginTests.ValidLogin] : Chrome is started
+2018-25-02 11:22:23   INFO [pages.LoginPage] : Page login was opened
+2018-25-02 11:22:23   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (7e2c172539846f96a9682405d6bcab72)] -> xpath: //input[@name='_username']]
+2018-25-02 11:22:23   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (7e2c172539846f96a9682405d6bcab72)] -> id: password]
+2018-25-02 11:22:26   INFO [loginTests.ValidLogin] : IE will be started
+2018-25-02 11:22:28   INFO [loginTests.ValidLogin] :  IE is started
+2018-25-02 11:22:28   INFO [pages.LoginPage] : Page login was opened
+2018-25-02 11:22:38  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchElementException: Unable to find element with xpath == //input[@name='_username']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.88.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:28296/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3e0ecb72-2067-4782-8fba-488f93320aa8
+*** Element info: {Using=xpath, value=//input[@name='_username']}
+2018-25-02 11:22:38  ERROR [libs.ActionsWithWebElements] : Login doesn't input org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'AB0964', ip: '192.168.88.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:28296/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3e0ecb72-2067-4782-8fba-488f93320aa8
+*** Element info: {Using=id, value=password}
+2018-25-02 12:05:34   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-25-02 12:05:37   INFO [loginTests.ValidLogin] : Chrome is started
+2018-25-02 12:05:38   INFO [pages.LoginPage] : Page login was opened
+2018-25-02 12:05:38   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (3cf255250d5c12056f4be4bca1096c78)] -> xpath: //input[@name='_username']]
+2018-25-02 12:05:38   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (3cf255250d5c12056f4be4bca1096c78)] -> id: password]
+2018-03-03 22:11:56   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-03-03 22:12:00   INFO [loginTests.ValidLogin] : Chrome is started
+2018-03-03 22:12:01   INFO [pages.LoginPage] : Page login was opened
+2018-03-03 22:12:01   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (925183800f2dd319a7c66e596aebc688)] -> xpath: //input[@name='_username']]
+2018-03-03 22:12:01   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (925183800f2dd319a7c66e596aebc688)] -> id: password]
+2018-03-03 22:12:03   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-03-03 22:12:05   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-03-03 22:12:05   INFO [pages.LoginPage] : Page login was opened
+2018-03-03 22:12:05   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (9587fea2a0a0eaad75a51df7775bfe6d)] -> xpath: //input[@name='_username']]
+2018-03-03 22:12:06   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (9587fea2a0a0eaad75a51df7775bfe6d)] -> id: password]
+2018-03-03 22:12:07   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-03-03 22:12:09   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-03-03 22:12:09   INFO [pages.LoginPage] : Page login was opened
+2018-03-03 22:12:09   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (b2d123442c00a35d3c137a22c778d985)] -> xpath: //input[@name='_username']]
+2018-03-03 22:12:10   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (b2d123442c00a35d3c137a22c778d985)] -> id: password]
+2018-04-03 08:12:35   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-04-03 08:12:39   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-04-03 08:12:40   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 08:12:40   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (e6ade0aa138ed161a5c2a9795d7ce415)] -> xpath: //input[@name='_username']]
+2018-04-03 08:12:40   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (e6ade0aa138ed161a5c2a9795d7ce415)] -> id: password]
+2018-04-03 08:18:34   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-04-03 08:18:37   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-04-03 08:18:38   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 08:18:38   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (c052c5bd1ab0a0b7caf055689f5b38e3)] -> xpath: //input[@name='_username']]
+2018-04-03 08:18:38   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (c052c5bd1ab0a0b7caf055689f5b38e3)] -> id: password]
+2018-04-03 11:06:00   INFO [loginTests.ValidLogin] : Chrome will be started
+2018-04-03 11:06:04   INFO [loginTests.ValidLogin] : Chrome is started
+2018-04-03 11:06:05   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 11:06:06   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (d2c2846cc61e03254939e8eb5fcbafe8)] -> xpath: //input[@name='_username']]
+2018-04-03 11:06:06   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (d2c2846cc61e03254939e8eb5fcbafe8)] -> id: password]
+2018-04-03 11:06:08   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:06:10   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:06:11   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 11:06:11   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (f63d3775cf80557b470574216fb26d2f)] -> xpath: //input[@name='_username']]
+2018-04-03 11:06:11   INFO [libs.ActionsWithWebElements] : 906090  is inputed to [[ChromeDriver: chrome on XP (f63d3775cf80557b470574216fb26d2f)] -> id: password]
+2018-04-03 11:06:13   INFO [loginTests.InvalidLoginWithParam] : Chrome will be started
+2018-04-03 11:06:15   INFO [loginTests.InvalidLoginWithParam] : Chrome is started
+2018-04-03 11:06:16   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 11:06:17   INFO [libs.ActionsWithWebElements] : tudent  is inputed to [[ChromeDriver: chrome on XP (7b47fed450a9bf052daa6879e525b4d9)] -> xpath: //input[@name='_username']]
+2018-04-03 11:06:17   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (7b47fed450a9bf052daa6879e525b4d9)] -> id: password]
+2018-04-03 12:32:55   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome will be started
+2018-04-03 12:32:59   INFO [loginTests.ValidLoginWithParamFromExcel] : Chrome is started
+2018-04-03 12:33:00   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 12:33:00   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (ab06e0bd2520512dc659a502f2c7e5af)] -> xpath: //input[@name='_username']]
+2018-04-03 12:33:00   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (ab06e0bd2520512dc659a502f2c7e5af)] -> id: password]
+2018-04-03 17:59:13   INFO [apparatTest.AddNewApparatTest] : Chrome will be started
+2018-04-03 17:59:17   INFO [apparatTest.AddNewApparatTest] : Chrome is started
+2018-04-03 17:59:18   INFO [pages.LoginPage] : Page login was opened
+2018-04-03 17:59:18   INFO [libs.ActionsWithWebElements] : Student  is inputed to [[ChromeDriver: chrome on XP (6f13f34ca84f61a3a781d6fdd3f714b5)] -> xpath: //input[@name='_username']]
+2018-04-03 17:59:18   INFO [libs.ActionsWithWebElements] : 909090  is inputed to [[ChromeDriver: chrome on XP (6f13f34ca84f61a3a781d6fdd3f714b5)] -> id: password]
+2018-04-03 17:59:20   INFO [libs.ActionsWithWebElements] : 262626  is inputed to [[ChromeDriver: chrome on XP (6f13f34ca84f61a3a781d6fdd3f714b5)] -> id: apparat_apparatNumber]
+2018-04-03 17:59:20   INFO [libs.ActionsWithWebElements] : NewSomeApparat  is inputed to [[ChromeDriver: chrome on XP (6f13f34ca84f61a3a781d6fdd3f714b5)] -> id: apparat_apparatComment]
